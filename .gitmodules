@@ -1,0 +1,6 @@
+[submodule "CRM_PRO"]
+	path = platform/web
+	url = git@github.com:Alan-pereiraa/CRM_PRO.git
+[submodule "CRM_PRO_API"]
+	path = packages/backend
+	url = git@github.com:Alan-pereiraa/CRM_PRO_API.git
